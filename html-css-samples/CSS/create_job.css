@@ -1,0 +1,53 @@
+.header {
+    background-image: linear-gradient( #99ffcc,  #b3e6ff);
+    color: black;
+    padding: 15px;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+  }
+.required{
+    color:red;
+}
+.create{
+    border-radius: 5px;
+    background-color:rgb(241, 185, 183);
+    padding: 30px 50px 30px 50px;
+    display:inline-block;
+
+    }
+input[type=text], input[type=password], input[type=email], input[type=tel], input[type=number], select{
+    font-family: font-family: 'Cairo', sans-serif;;
+    width: 360px;
+    padding: 10px 10px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+  .bsubmit{
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    background-color: #008CBA;
+  }
+  
+  .breset{
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    background-color: rgb(223, 138, 166);
+  }
+  body{
+    background-image: linear-gradient( #99ffcc,  #b3e6ff);
+    text-align: center;
+  }
