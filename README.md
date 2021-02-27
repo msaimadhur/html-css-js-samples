@@ -1,6 +1,7 @@
 # Task 2:
-Create HTML/javascript mockup (prototype) pages for job openings form and apply for job form
-2.1. Job openings form (create_job.html):
+Create HTML/javascript mockup (prototype) pages for job openings form and apply for job form.
+
+# 2.1. Job openings form (create_job.html):
 page title: Enter Job Data
 fields:
    title: text field*
@@ -14,7 +15,7 @@ fields:
    javascript validations:
      validate that required fields are not blank when submit is clicked
      validate that date value is valid and not greater than current date
-2.2. Apply for Jobs form (apply_job.html):
+# 2.2. Apply for Jobs form (apply_job.html):
 page title: Apply for Jobs
 fields:
 - applicants: appl_id, first_name, last_name, email, phone_num, address, city, state, zip, country_cd (fk1),
