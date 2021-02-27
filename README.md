@@ -1,5 +1,4 @@
-# html-css-js-samples
-Task 2:
+# Task 2:
 Create HTML/javascript mockup (prototype) pages for job openings form and apply for job form
 2.1. Job openings form (create_job.html):
 page title: Enter Job Data
